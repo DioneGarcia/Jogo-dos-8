@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1632310628 source:c:\users\dione _pc\onedrive\Área de trabalho\av2-8pluze-dione garcia\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1632862093 source:c:\users\dione _pc\onedrive\Área de trabalho\av2-8pluze-dione garcia (oficial)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<locale.h>
+
+1632863440 source:c:\users\dione _pc\onedrive\Área de trabalho\faculdade cc\construção de algoritmos\av2-8pluze-dione garcia (oficial)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<locale.h>
+
